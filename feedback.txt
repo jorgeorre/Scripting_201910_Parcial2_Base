@@ -1,0 +1,11 @@
+feedback
+
+Componente Práctico (0.5 / 5.0)
+* El readme justifica adecuadamente la estrategia de implementación, pero no se soporta con una implementación funcional (0.5 / 1.0)
+* Las balas no están gestionadas por medio de un pool, por tanto no se satisface que las balas no se instancien y destruyan constantemente (0.0 / 0.4)
+* Solo hay un enemigo en escena que no hace nada, por tanto, tampoco se satisface que los enemigos no se instancien y desturyan constantemente (0.0 / 0.4)
+* No hay implementación de instanciación de una cantidad fija de enemigos que se restablezca una vez todos los enemigos hayan muerto (0.0 / 0.7)
+* Los nodos del BT no están implementados (0.0 / 1.5)
+* Los estados del AI no están implementados (0.0 / 1.0)
+
+Total: 0.5 / 5.0
